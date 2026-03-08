@@ -37,10 +37,10 @@ flutter_native_splash:
   # remain optional. NOTE that if you specify the [required] color, then you cant
   # use the [required] background_image in the next section. the reverse is true.
   # select one, they cant work together.
-  color: "#FFFFFF"  ##====================================[REQUIRED]==========
+  color: "#00D2FF"  ##====================================[REQUIRED]==========
   fullscreen: true
   android_12:
     # background color
-    color: "#FFFFFF"
+    color: "#00D2FF"
 
     image: assets/images/logo_splash.png
